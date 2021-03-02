@@ -26,6 +26,8 @@ public class Main {
 			System.out.println("Your 2nd final score was " + finalScore);
 		}
 
-		//This commented added to code on 3/1/2021 @ 1603 PST
+		//This commented added to code on 3/1/2021 @ 1603 PST from Dan's T420
+		//This commented added to code on 3/1/2020 @ 1657 PST from Dan's MacBook Air 11"
+
 	}
 }
